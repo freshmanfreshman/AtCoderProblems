@@ -1,0 +1,6 @@
+S = input()
+
+
+ansLetter = "chokudai"
+
+
